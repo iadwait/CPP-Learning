@@ -47,4 +47,17 @@ BuiltIn - int, float, char, double, bool
 UserDefined - Struct, Union, Enum
 Derived - Arrays, Functions, Pointer
 
+There are more datatypes like short int, long int, long double etc 
+just size in byte changes and range changes. Eg shortInt is 2byte size while Int is 4 byte. 
+
+5.iostream
+Input Output Stream
+for accessing cout and cin
+What is Stream ?
+Input Stream - Direction of flow of bytes take place from input device eg:keyboard to main memory.
+Output Stream - Direction of flow of bytes take place from Main Memory to the Output devices eg:Display
+
+cout<< - '<<' is called Insertion Operator
+cin>> - '>>' is called as Extraction Operator
+
 

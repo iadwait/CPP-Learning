@@ -22,8 +22,8 @@ int main() {
     cout<<"\n The Value of isTrue is " <<isTrue; // 1 for true, 0 for false
 
     localVar();
-    //cout<<"\n glovar from int mail refer local var = " <<::glovar;
-    cout<<"\n Access Global Variable using scope resolution operator" <<::glovar << glovar;
+    cout<<"\n glovar from int mail refer local var = " <<::glovar;
+    cout<<"\n Access Global Variable using scope resolution operator" <<::glovar << " " << glovar;
     return 0;
 }
 
