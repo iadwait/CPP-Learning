@@ -60,4 +60,13 @@ Output Stream - Direction of flow of bytes take place from Main Memory to the Ou
 cout<< - '<<' is called Insertion Operator
 cin>> - '>>' is called as Extraction Operator
 
+6.Header Files
+There are 2 types of header Files
+- System Header Files - It comes with the compiler eg:iostream
+- User Defined Header Files - #include"this.h" // will give error is this.h is not present in repo
 
+7.Operators in C++
+- Arithmetic Operators - + - * / % a++ a-- ++a --a
+- Comparision Operator =
+- Logical Operator && || !
+- Bitwise operators - TODO
