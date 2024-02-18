@@ -1,0 +1,50 @@
+C++ Notes
+
+1.Introduction
+C++ is Low level language means it works close with the OS, High level means not in depth
+You can do meremory management using C++, or more control over memory
+Most Popular language used for competitive programming
+Semicolon is compulsary in C++
+
+2.Program Structure
+#include<iostream> // Header File
+using namespace std; // namespace so we can avoid writing std::cout
+int main() { // Start Point is main
+    cout<< "Hello World";
+    return 0; // Successful program termination
+}
+
+3.Variables
+Variables are containers to store data.
+There are primarity these datatypes we have
+Int - 1,2,0,-1
+Float - 1.21, 3.77
+Char - 'a', 'b', 'z'
+Double - Same like float, if you need to store more decimal numbers we use double 1.252342343
+Boolean - true, false
+
+Synax to declare a Variables
+Datatype variableName = value;
+int sum = 36;
+
+Scope of Variables
+1.Local - Written inside curly braces
+2.Global - written outside func accessible from any func.
+Can Local and Global Varibale have same name ? Yes
+Wile accessing variable priority is given to local Varibale, to access global variable we use ::variableName (Scoperesolution operator ::)
+
+Rules to declare a variableName in C++
+- Variable Name can range from 1 to 255 characters
+- Variable Name should begin with letter or underscore(_)
+- After 1st letter, Varibale Name can also 
+- Variable Name are Case Sensitive
+- No Spaces or Special Characters are allowed
+- Cannot use any C++ Keyword (reserved word) as a Variable name
+
+4.Datatypes
+Datatypes are chatagorized into 3 groups
+BuiltIn - int, float, char, double, bool
+UserDefined - Struct, Union, Enum
+Derived - Arrays, Functions, Pointer
+
+
