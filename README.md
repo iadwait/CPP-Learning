@@ -9,4 +9,6 @@
 
   --------------------------------------------
 ### File Name - Topic
+    Notes.txt   C++ Notes
     tut1.cpp    First Hellow World Program
+    tut4.cpp    DataTypes, Variables and Scope of variables Program
