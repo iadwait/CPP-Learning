@@ -63,6 +63,10 @@ Output Stream - Direction of flow of bytes take place from Main Memory to the Ou
 cout<< - '<<' is called Insertion Operator
 cin>> - '>>' is called as Extraction Operator
 
+#include<stdlib.h> 
+// For system("pause");
+// We can add this line at last and than open program as a windows application
+
 6.Header Files
 There are 2 types of header Files
 - System Header Files - It comes with the compiler eg:iostream
