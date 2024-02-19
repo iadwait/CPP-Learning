@@ -15,3 +15,4 @@
     tut5.cpp    Taking inputs from User and giving output Program
     tut6.cpp    Header Files, Operators in C++
     tut7.cpp    Reference Variable and Typecasting in C++
+    tut8.cpp    Constants, Manipulators & Operator Precedence in C++
