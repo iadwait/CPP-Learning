@@ -47,6 +47,9 @@ BuiltIn - int, float, char, double, bool
 UserDefined - Struct, Union, Enum
 Derived - Arrays, Functions, Pointer
 
+when we write 34.4 bydefault c++ take it as a double
+if we mention 34.4f or 34.4F c++ take it as float and 34.4l or 34.4L as long Double
+
 There are more datatypes like short int, long int, long double etc 
 just size in byte changes and range changes. Eg shortInt is 2byte size while Int is 4 byte. 
 
