@@ -77,3 +77,11 @@ There are 2 types of header Files
 - Comparision Operator =
 - Logical Operator && || !
 - Bitwise operators - TODO
+
+8.Control Structures in C++
+There are 3 control Structures
+- Sequence Struction -> Entry -> Action1 - Action2 -> Exit
+- Selection Structure(If Else, Nested If Else, Swiftch) -> Entry - If -> (Action) Else -> (Action) -> Exit
+- Loop Structure(For Loop, Do While Loop, Wile Loop) -> Entry -> Loop Till COndition is true -> Exit
+
+Switch -> // break is mandatory, if not added next case will also be executed
