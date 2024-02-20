@@ -91,3 +91,7 @@ C++ has total 3 Loops
 For Loop
 While Loop
 Do While Loop
+
+10.Break and continue
+break - make exit from Loop
+continue - stop current loop iteration and move to next iteration
