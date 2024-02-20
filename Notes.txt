@@ -85,3 +85,9 @@ There are 3 control Structures
 - Loop Structure(For Loop, Do While Loop, Wile Loop) -> Entry -> Loop Till COndition is true -> Exit
 
 Switch -> // break is mandatory, if not added next case will also be executed
+
+9.Loops in C++
+C++ has total 3 Loops
+For Loop
+While Loop
+Do While Loop

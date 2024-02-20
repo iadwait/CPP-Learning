@@ -17,3 +17,4 @@
     tut7.cpp    Reference Variable and Typecasting in C++
     tut8.cpp    Constants, Manipulators & Operator Precedence in C++
     tut9.cpp    Control Structures, If Else and Switch-Case Statement
+    tut10.cpp   For Loop, While Loop, Do While Loop in C++
