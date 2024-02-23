@@ -95,3 +95,7 @@ Do While Loop
 10.Break and continue
 break - make exit from Loop
 continue - stop current loop iteration and move to next iteration
+
+11.Pointers
+Pointers -> is a datatype used to store address of another datatypes
+Refer tut12.cpp for code
